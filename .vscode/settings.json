@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "file.h": "c",
+        "vnode.h": "c",
+        "copyinout.h": "c",
+        "errno.h": "c",
+        "seek.h": "c",
+        "limits.h": "c"
+    }
+}
